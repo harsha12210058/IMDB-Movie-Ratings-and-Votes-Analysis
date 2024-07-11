@@ -2,7 +2,7 @@
 
 This project involves analyzing movies data to uncover trends and insights
 
-#**Key Features**
+**Key Features**
 
 Exploratory Data Analysis (EDA): Conducted EDA to understand the distribution and relationships within the data using visualizations and summary statistics.
 Trend Analysis: Identified  trends over different periods and regions.
