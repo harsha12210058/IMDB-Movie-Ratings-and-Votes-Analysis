@@ -9,16 +9,23 @@ Processed and manipulated large datasets to derive meaningful insights related t
 Key Responsibilities:
 
 **Data Wrangling:** Cleaned and prepared datasets by handling missing values, renaming columns, and restructuring data for analysis.
+
 **Statistical Analysis:** Performed descriptive and inferential statistical analysis to identify trends and patterns in the data.
+
 **Visualization:** Created various plots and heatmaps to visualize the distribution of votes and ratings across different genres and demographics.
+
 **Comparative Analysis:** Compared voting patterns between male and female audiences across different age groups.
-**Reporting**: Documented and presented findings in a comprehensive report to the company board.
+
+**Reporting**: Documented and presented findings in a comprehensive report to the company board of infinity.
 
 
 **Tools and Technologies:**
 
+
 **Programming Languages:** Python
+
 **Libraries:** pandas, seaborn, matplotlib
+
 **Techniques:** Data Cleaning, Data Visualization, Statistical Analysis, Heatmaps, Bar Plots
 
 
