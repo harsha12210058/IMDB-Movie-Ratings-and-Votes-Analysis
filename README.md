@@ -16,7 +16,7 @@ Key Responsibilities:
 
 **Comparative Analysis:** Compared voting patterns between male and female audiences across different age groups.
 
-**Reporting**: Documented and presented findings in a comprehensive report to the company board of infinity.
+**Reporting**: Documented and presented findings in a comprehensive report to the company board infinity.
 
 
 **Tools and Technologies:**
