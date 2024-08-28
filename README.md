@@ -1,6 +1,6 @@
 **Data Analysis Project - Movie Ratings and Votes Analysis**
 
-**Company : Assignment from the Company Board of Infinity**
+**Company : Assignment from the Company Board Infinity**
 
 **Description:**
 
