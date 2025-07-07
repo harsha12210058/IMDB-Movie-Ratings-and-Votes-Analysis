@@ -1,4 +1,4 @@
-**Data Analysis Project - Movie Ratings and Votes Analysis**
+**Data Analysis Project - IMDB Movie Ratings and Votes Analysis**
 
 **Company : Assignment from the Company Board Infinity**
 
